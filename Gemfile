@@ -28,6 +28,7 @@ gem 'bourbon'
 gem 'devise'
 gem 'high_voltage'
 gem 'pg'
+gem 'jb'
 group :development do
   gem 'better_errors'
   gem 'hub', :require=>nil
